@@ -1,5 +1,5 @@
 # Layercraft
 
-The goal is a new development of the Minecraft server according to new standards and their implementation which should go in the direction of microservices.
+A software that wants to bring Minecraft Server to the next level, by using a microservices style.
 
 More Infos: [github.com/Layercraft/Infos](https://github.com/Layercraft/Infos)
